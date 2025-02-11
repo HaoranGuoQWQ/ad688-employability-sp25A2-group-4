@@ -9,11 +9,14 @@ format:
     toc: true
 ---
 # Introduction & Literature Review 
-The rapid development of artificial intelligence is transforming the global job market. It is creating both opportunities and challenges for workers across various industries @george2024ai. 
-As AI-powered automation reshapes many traditional jobs, it is important for us to understand the distinctions between AI and non-AI careers in preparing for our career planning. 
+The rapid development of artificial intelligence is transforming the global job market. 
+It is creating both opportunities and challenges for workers across various industries. @george2024ai
+As AI-powered automation reshapes many traditional jobs, 
+it is important for us to understand the distinctions between AI and non-AI careers in preparing for our career planning. 
 In 2024, AI integration continues to accelerate, influencing both skill requirements and wage structures, 
-while non-AI careers remain essential in some areas which requires human creativity and hands-on expertise @george2024bracing.
-The rise of generative AI has intensified discussions on job displacement as well as the ethical implications of AI-driven employment @idrisi2024job. 
+while non-AI careers remain essential in some areas which requires human creativity and hands-on expertise. @george2024bracing
+The rise of generative AI has intensified discussions on job displacement as well as the ethical implications of AI-driven employment. @idrisi2024job 
+
 This research aims to explore key differences between AI and non-AI careers in terms of job security, salary growth, required skills, and future demand, etc. 
 By analyzing these trends, the study will provide valuable insights into navigating career choices in an increasingly AI-driven world.
 
