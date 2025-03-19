@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: _site
 
 website:
   title: "ad688-employability-sp25A1-group-4"
