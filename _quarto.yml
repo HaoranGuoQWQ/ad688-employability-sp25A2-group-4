@@ -11,6 +11,10 @@ website:
         text: About
       - href: research_introduction.qmd
         text: Research Introduction
+      - href: AD688_GA2.ipynb
+        text: "Data Analysis"
+      - href: career_plan.qmd
+        text: "Career Strategy"
 
 format:
   html:
