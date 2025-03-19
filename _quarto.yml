@@ -23,7 +23,7 @@ format:
     css: styles.css
     toc: true
     include-in-header:
-      - text: |
+      - text:
           <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
 
