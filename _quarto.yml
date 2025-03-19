@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: _site
 
 website:
   title: "ad688-employability-sp25A1-group-4"
@@ -13,7 +14,6 @@ website:
         text: Research Introduction
       - href: AD688_GA2_C.ipynb
         text: "Data Analysis"
-
 
 format:
   html:
