@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "ad688-employability-sp25A1-group-4"
+  navbar:
+    left:
+      - href: index.qmd
+        text: "Home"
+      - href: research_introduction.qmd
+        text: "Introduction"
+      - href: AD688_GA2_C.ipynb
+        text: "Data Cleaning & Exploration"
+      - href: eda.ipynb
+        text: "Exploratory Data Analysis"
+      - href: AD688_GS3.ipynb
+        text: "Skill Gap Analysis"
+      - href: ml_methods.qmd/ipynb
+        text: "ML Methods"
+      - href: nlp_methods.qmd/ipynb
+        text: "NLP Methods"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+execute:
+  echo: true
+  eval: true
+  code-fold: true
+
+
+
