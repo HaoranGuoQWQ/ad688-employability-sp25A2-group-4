@@ -7,13 +7,19 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About
+        text: "Home"
       - href: research_introduction.qmd
-        text: Research Introduction
+        text: "Research Introduction"
       - href: AD688_GA2_C.ipynb
-        text: "Data Analysis"
+        text: "Data Cleaning & Exploration"
+      - href: eda.qmd/ipynb
+        text: "Exploratory Data Analysis"
+      - href: skill_gap_analysis.qmd/ipynb
+        text: "Skill Gap Analysis"
+      - href: ml_methods.qmd/ipynb
+        text: "ML Methods"
+      - href: nlp_methods.qmd/ipynb
+        text: "NLP Methods"
 
 format:
   html:
@@ -22,6 +28,10 @@ format:
       - brand
     css: styles.css
     toc: true
+execute:
+  echo: true
+  eval: true
+  code-fold: true
 
 
 
