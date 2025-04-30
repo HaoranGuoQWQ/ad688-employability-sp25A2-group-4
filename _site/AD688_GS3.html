@@ -146,12 +146,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span class="menu-text">Skill Gap Analysis</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./ml_methods.qmd/ipynb"> 
-<span class="menu-text">ML Methods</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./nlp_methods.qmd/ipynb"> 
-<span class="menu-text">NLP Methods</span></a>
+    <a class="nav-link" href="./AD688GS4.html"> 
+<span class="menu-text">K-Means Clustering and MLR</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -351,7 +347,7 @@ business requirements: 12977 postings</code></pre>
 <span id="cb9-26"><a href="#cb9-26" aria-hidden="true" tabindex="-1"></a>    <span class="cf">if</span> skill <span class="kw">not</span> <span class="kw">in</span> df_skills.columns:</span>
 <span id="cb9-27"><a href="#cb9-27" aria-hidden="true" tabindex="-1"></a>        df_skills[skill] <span class="op">=</span> <span class="dv">0</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
-<div id="548c32a7-7b16-4200-aee1-d90222758e93" class="cell" data-execution_count="10">
+<div id="548c32a7-7b16-4200-aee1-d90222758e93" class="cell">
 <div class="sourceCode cell-code" id="cb10"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a>df_skills <span class="op">=</span> df_skills.loc[:, <span class="op">~</span>df_skills.columns.duplicated()]</span>
 <span id="cb10-2"><a href="#cb10-2" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb10-3"><a href="#cb10-3" aria-hidden="true" tabindex="-1"></a>plt.figure(figsize<span class="op">=</span>(<span class="dv">12</span>, <span class="dv">5</span>))</span>
@@ -367,6 +363,17 @@ business requirements: 12977 postings</code></pre>
 <figure class="figure">
 <p><img src="AD688_GS3_files/figure-html/cell-9-output-1.png" class="img-fluid figure-img"></p>
 </figure>
+</div>
+</div>
+<div class="cell-output cell-output-error">
+<div class="ansi-escaped-output">
+<pre><span class="ansi-red-fg ansi-bold">The Kernel crashed while executing code in the current cell or a previous cell. 
+
+</span><span class="ansi-red-fg ansi-bold">Please review the code in the cell(s) to identify a possible cause of the failure. 
+
+</span><span class="ansi-red-fg ansi-bold">Click &lt;a href='https://aka.ms/vscodeJupyterKernelCrash'&gt;here&lt;/a&gt; for more info. 
+
+</span><span class="ansi-red-fg ansi-bold">View Jupyter &lt;a href='command:jupyter.viewOutput'&gt;log&lt;/a&gt; for further details.</span></pre>
 </div>
 </div>
 </div>

@@ -1,7 +1,39 @@
 ---
-title: "ad688-employability-sp25A1-group-4"
+title: "Welcome to Our Employability Project"
+format:
+  html:
+    toc: false
 ---
 
-This is a Quarto website.
+# AD688 Employability Analysis – Group 4
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+<img src="images/ai_image.jpeg" alt="AI image" style="width:100%; border-radius: 10px; margin-bottom: 20px;"/>
+
+Welcome to our project website! 
+This website contains our analysis about employability trends in an AI era using analytical tools such as Python.
+
+---
+
+## 🔍 Project Overview
+
+We analyze employment datasets to uncover patterns in:
+
+- Skill gaps
+- Educational qualifications
+- Industry demand
+- Salary prediction
+
+---
+
+## 🛠 Tools Used
+
+- Python (Pandas, Scikit-learn, Seaborn)
+- Spark
+- Quarto for publishing
+
+
+---
+
+## 🚀 Explore the Project
+
+Use the navigation bar above to follow our work from data cleaning through clustering and regression analysis.
