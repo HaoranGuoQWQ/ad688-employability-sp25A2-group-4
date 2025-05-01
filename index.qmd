@@ -10,7 +10,7 @@ format:
 <img src="images/ai_image.jpeg" alt="AI image" style="width:100%; border-radius: 10px; margin-bottom: 20px;"/>
 
 Welcome to our project website! 
-This website contains our analysis about employability trends in an AI era using analytical tools such as Python.
+This website contains our analysis about employability trends in an AI era using analytical tools.
 
 ---
 
@@ -18,22 +18,20 @@ This website contains our analysis about employability trends in an AI era using
 
 We analyze employment datasets to uncover patterns in:
 
-- Skill gaps
-- Educational qualifications
-- Industry demand
-- Salary prediction
+- [Skill gaps](AD688_GS3.html)
+- [Salary and AI-related skills (by Using K-Means and MLR Models)](AD688GS4.html)
 
 ---
 
 ## 🛠 Tools Used
 
-- Python (Pandas, Scikit-learn, Seaborn)
-- Spark
+- Python (Pandas, Scikit-learn, Seaborn, etc.)
+- VSCode
 - Quarto for publishing
 
 
 ---
 
-## 🚀 Explore the Project
+## 🚀 Explore the Website
 
 Use the navigation bar above to follow our work from data cleaning through clustering and regression analysis.

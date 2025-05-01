@@ -3,8 +3,9 @@ project:
   output-dir: _site
 
 website:
-  title: "ad688-employability-sp25A1-group-4"
+  title: "AD688 Employability Research Project by Group 4"
   navbar:
+    title: "AD688 Research"
     left:
       - href: index.qmd
         text: "Home"

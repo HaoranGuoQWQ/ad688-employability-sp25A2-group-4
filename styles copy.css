@@ -1,0 +1,11 @@
+/* css styles */
+/* Change navbar background color to red */
+.navbar {
+    background-color: red !important;
+  }
+  
+  /* Optional: change navbar text color */
+  .navbar .nav-link,
+  .navbar .navbar-brand {
+    color: white !important;
+  }
